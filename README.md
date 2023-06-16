@@ -1,8 +1,8 @@
 # Privacy Policy of Demon
 
-### Effective Date: 16-06-2023
+Effective Date: 16-06-2023
 
-### This Privacy Policy outlines the practices and procedures regarding the collection, use, and disclosure of personal information by [Demon](https://discord.com/api/oauth2/authorize?client_id=1094230281361301584&permissions=8&scope=applications.commands%20bot) in connection with its operations and services provided through the Discord platform. By using the Bot, you acknowledge and consent to the practices described in this Privacy Policy.
+This Privacy Policy outlines the practices and procedures regarding the collection, use, and disclosure of personal information by [Demon](https://discord.com/api/oauth2/authorize?client_id=1094230281361301584&permissions=8&scope=applications.commands%20bot) in connection with its operations and services provided through the Discord platform. By using the Bot, you acknowledge and consent to the practices described in this Privacy Policy.
 
 ## 1. Collection of Personal Information:
 The Bot may collect and store certain personal information, including but not limited to:

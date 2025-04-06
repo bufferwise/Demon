@@ -9,6 +9,7 @@ The Bot may collect and store certain personal information, including but not li
 - Discord user ID: To provide the intended functionalities and ensure proper functioning of the Bot.
 - Discord server information: To facilitate moderation and administrative actions within the designated servers.
 - User interactions: Information related to commands executed by users and messages processed by the Bot.
+- Discord server information: This includes details about the server where the bot is added, such as server ID, name, and settings required for functionality. Additionally, the bot may log when it joins or leaves a server for monitoring and administrative purposes.
 
 ## 2. Use of Personal Information:
 The Bot uses the collected personal information for the following purposes:
